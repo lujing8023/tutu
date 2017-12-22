@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "col5",
+    "texture": "367aff49-2a91-4065-a9bb-74fc40c83e68",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      70,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      70,
+      76
+    ]
+  }
+}

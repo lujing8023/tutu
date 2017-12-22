@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "4645527b-d444-4d3e-ab3f-dd501d2d4237",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "joyclolring": {
+      "ver": "1.0.3",
+      "uuid": "b626a472-964f-43ae-a44c-1a6ab3e925cd",
+      "rawTextureUuid": "4645527b-d444-4d3e-ab3f-dd501d2d4237",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 2048,
+      "height": 1536,
+      "rawWidth": 2048,
+      "rawHeight": 1536,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

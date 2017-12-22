@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huakuang",
+    "texture": "f937d54c-017c-41e2-8309-d8ceba0fab72",
+    "atlas": "",
+    "rect": [
+      195,
+      148,
+      1250,
+      1142
+    ],
+    "offset": [
+      -204,
+      49
+    ],
+    "originalSize": [
+      2048,
+      1536
+    ]
+  }
+}

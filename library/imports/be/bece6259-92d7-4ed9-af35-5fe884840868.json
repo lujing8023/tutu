@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jieping",
+    "texture": "dc76318c-6ab0-4354-9e1d-5857afd4dbbf",
+    "atlas": "",
+    "rect": [
+      533,
+      288,
+      185,
+      114
+    ],
+    "offset": [
+      225.5,
+      -45
+    ],
+    "originalSize": [
+      800,
+      600
+    ]
+  }
+}

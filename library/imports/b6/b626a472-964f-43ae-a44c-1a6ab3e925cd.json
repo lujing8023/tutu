@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "joyclolring",
+    "texture": "4645527b-d444-4d3e-ab3f-dd501d2d4237",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      2048,
+      1536
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      2048,
+      1536
+    ]
+  }
+}

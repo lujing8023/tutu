@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "YT",
+    "texture": "f9641850-fb69-4d60-9823-fc8c30078f9c",
+    "atlas": "",
+    "rect": [
+      252,
+      352,
+      227,
+      196
+    ],
+    "offset": [
+      -34.5,
+      -150
+    ],
+    "originalSize": [
+      800,
+      600
+    ]
+  }
+}

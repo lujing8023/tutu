@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "instrument",
+    "texture": "1cf5f34d-c159-4163-974b-2d89daaccacc",
+    "atlas": "",
+    "rect": [
+      487,
+      110,
+      812,
+      942
+    ],
+    "offset": [
+      -131,
+      187
+    ],
+    "originalSize": [
+      2048,
+      1536
+    ]
+  }
+}

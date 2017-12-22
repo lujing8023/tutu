@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gamebg",
+    "texture": "84ab597b-6ec9-44b7-8bb8-5054a688b218",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      2048,
+      1533
+    ],
+    "offset": [
+      0,
+      1.5
+    ],
+    "originalSize": [
+      2048,
+      1536
+    ]
+  }
+}

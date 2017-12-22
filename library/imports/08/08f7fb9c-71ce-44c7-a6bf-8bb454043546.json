@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tiaosepan",
+    "texture": "e73a05d3-d952-4d53-a3ab-84619f25994c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      494,
+      426
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      494,
+      426
+    ]
+  }
+}

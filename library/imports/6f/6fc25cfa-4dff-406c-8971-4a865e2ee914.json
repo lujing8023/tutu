@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "截屏",
+    "texture": "f61c5d58-e720-4827-ae25-a4de1f653b47",
+    "atlas": "",
+    "rect": [
+      533,
+      288,
+      185,
+      114
+    ],
+    "offset": [
+      225.5,
+      -45
+    ],
+    "originalSize": [
+      800,
+      600
+    ]
+  }
+}

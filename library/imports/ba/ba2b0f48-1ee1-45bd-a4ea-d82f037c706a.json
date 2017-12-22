@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anbj",
+    "texture": "46967dc5-e936-47c2-82d2-d005ca955c82",
+    "atlas": "",
+    "rect": [
+      819,
+      742,
+      354,
+      311
+    ],
+    "offset": [
+      -28,
+      -129.5
+    ],
+    "originalSize": [
+      2048,
+      1536
+    ]
+  }
+}

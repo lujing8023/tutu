@@ -1,0 +1,52 @@
+2017-12-22T01:42:00.368Z - normal: Load ~/.CocosCreator/settings.json
+2017-12-22T01:42:00.372Z - normal: checking language setting...
+2017-12-22T01:42:00.373Z - normal: Language: zh
+2017-12-22T01:42:01.664Z - success: protocol editor-framework registered
+2017-12-22T01:42:01.664Z - success: protocol app registered
+2017-12-22T01:42:01.664Z - success: protocol theme registered
+2017-12-22T01:42:01.664Z - success: protocol profile registered
+2017-12-22T01:42:01.664Z - success: protocol packages registered
+2017-12-22T01:42:01.667Z - success: protocol unpack registerred
+2017-12-22T01:42:01.667Z - success: protocol disable-commonjs registerred
+2017-12-22T01:42:01.924Z - normal: connected!
+2017-12-22T01:42:01.929Z - normal: Check project /Users/jing/Desktop/tutu/newcolor
+2017-12-22T01:42:01.942Z - normal: Initializing Cocos2d
+2017-12-22T01:42:02.383Z - normal: Initializing Asset Database
+2017-12-22T01:42:02.442Z - success: protocol uuid registerred
+2017-12-22T01:42:02.443Z - success: protocol db registerred
+2017-12-22T01:42:02.444Z - success: protocol thumbnail registerred
+2017-12-22T01:42:02.444Z - normal: Loading editor/builtin packages
+2017-12-22T01:42:02.477Z - success: anysdk loaded
+2017-12-22T01:42:02.662Z - success: assets loaded
+2017-12-22T01:42:02.666Z - success: builder loaded
+2017-12-22T01:42:02.671Z - success: hierarchy loaded
+2017-12-22T01:42:02.678Z - success: inspector loaded
+2017-12-22T01:42:02.680Z - success: keystore loaded
+2017-12-22T01:42:02.684Z - success: node-library loaded
+2017-12-22T01:42:02.694Z - success: package-asset loaded
+2017-12-22T01:42:02.696Z - success: preferences loaded
+2017-12-22T01:42:02.700Z - success: project-exporter loaded
+2017-12-22T01:42:02.716Z - success: project-importer loaded
+2017-12-22T01:42:02.722Z - success: project-settings loaded
+2017-12-22T01:42:02.725Z - success: ui-kit loaded
+2017-12-22T01:42:02.730Z - success: ui-grid loaded
+2017-12-22T01:42:02.735Z - success: scene loaded
+2017-12-22T01:42:02.736Z - success: sprite-editor loaded
+2017-12-22T01:42:02.742Z - success: store loaded
+2017-12-22T01:42:02.748Z - success: timeline loaded
+2017-12-22T01:42:02.748Z - normal: Loading builtin packages
+2017-12-22T01:42:02.753Z - success: asset-db-debugger loaded
+2017-12-22T01:42:02.753Z - success: color-picker loaded
+2017-12-22T01:42:02.758Z - success: console loaded
+2017-12-22T01:42:02.762Z - success: package-manager loaded
+2017-12-22T01:42:02.767Z - success: sdkbox loaded
+2017-12-22T01:42:02.774Z - success: tester loaded
+2017-12-22T01:42:02.779Z - success: ui-kit-preview-extra loaded
+2017-12-22T01:42:02.797Z - success: ui-kit-preview loaded
+2017-12-22T01:42:02.802Z - success: ui-tree loaded
+2017-12-22T01:42:03.851Z - normal: Initializing project /Users/jing/Desktop/tutu/newcolor
+2017-12-22T01:42:03.853Z - normal: Loading packages
+2017-12-22T01:42:03.859Z - normal: Watching packages
+2017-12-22T01:42:03.873Z - normal: Run Application
+2017-12-22T01:42:19.959Z - success: preview server running at http://localhost:7456
+2017-12-22T01:42:25.058Z - normal: 1.6.1

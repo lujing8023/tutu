@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fenglei",
+    "texture": "fe95dad0-7bf4-481e-b1b4-fc4e31f21eb9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      2048,
+      1533
+    ],
+    "offset": [
+      0,
+      1.5
+    ],
+    "originalSize": [
+      2048,
+      1536
+    ]
+  }
+}

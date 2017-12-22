@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TUJIAN",
+    "texture": "27501f08-4e6e-4b75-bcad-ce0ce684bceb",
+    "atlas": "",
+    "rect": [
+      198,
+      52,
+      557,
+      661
+    ],
+    "offset": [
+      -35.5,
+      -4
+    ],
+    "originalSize": [
+      1024,
+      757
+    ]
+  }
+}
